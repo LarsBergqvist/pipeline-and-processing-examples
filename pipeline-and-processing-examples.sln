@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pipeline", "Pipeline\Pipeline.csproj", "{B6F64380-B394-4F34-ABA5-870E3DBC8459}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskProcessing", "TaskProcessing\TaskProcessing.csproj", "{9745BC33-2B2E-421A-A859-9E92FD528A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{2F0CA34B-2673-4C1C-B075-B5A33F860221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F64380-B394-4F34-ABA5-870E3DBC8459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F64380-B394-4F34-ABA5-870E3DBC8459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F64380-B394-4F34-ABA5-870E3DBC8459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F64380-B394-4F34-ABA5-870E3DBC8459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9745BC33-2B2E-421A-A859-9E92FD528A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9745BC33-2B2E-421A-A859-9E92FD528A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9745BC33-2B2E-421A-A859-9E92FD528A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9745BC33-2B2E-421A-A859-9E92FD528A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0CA34B-2673-4C1C-B075-B5A33F860221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0CA34B-2673-4C1C-B075-B5A33F860221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0CA34B-2673-4C1C-B075-B5A33F860221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0CA34B-2673-4C1C-B075-B5A33F860221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D46CE16-ED43-489B-847F-DC21580C0C28}
+	EndGlobalSection
+EndGlobal
