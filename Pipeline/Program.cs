@@ -7,7 +7,7 @@ using Pipeline.Processors;
 
 namespace Pipeline
 {
-    class Program
+    static class Program
     {
         static async Task Main()
         {

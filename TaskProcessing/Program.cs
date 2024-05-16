@@ -7,7 +7,7 @@ using TaskProcessing.Processors;
 
 namespace TaskProcessing
 {
-    class Program
+    static class Program
     {
         static async Task Main()
         {
